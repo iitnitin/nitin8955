@@ -1,8 +1,8 @@
 # Digital-Schmitt-Trigger-Controller-System-Verilog
 Implementation of Digital version of Schmitt Trigger invented by me for utilization in Bang Bang Controller , made using System Verilog 
 
-![image](https://github.com/nitin meena-0502/Digital-Schmitt-Trigger-Controller-System-Verilog/assets/86561124/4bd308ec-b1b2-465f-a809-b9ed6ff6359f)
-![image](https://github.com/nitin meena-0502/Digital-Schmitt-Trigger-Controller-System-Verilog/assets/86561124/4b11e0f5-bed2-4907-b959-2a63363fb2ac)
+![image](https://github.com/ayush-agarwal-0502/Digital-Schmitt-Trigger-Controller-System-Verilog/assets/86561124/4bd308ec-b1b2-465f-a809-b9ed6ff6359f)
+![image](https://github.com/ayush-agarwal-0502/Digital-Schmitt-Trigger-Controller-System-Verilog/assets/86561124/4b11e0f5-bed2-4907-b959-2a63363fb2ac)
 
 Made by Nitin Meena
 
