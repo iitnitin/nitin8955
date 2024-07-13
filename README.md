@@ -1,1 +1,1 @@
-# nitin8955
+Digital-Schmitt-Trigger-Controller-System-Verilog
